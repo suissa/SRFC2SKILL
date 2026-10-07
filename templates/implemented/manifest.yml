@@ -1,0 +1,7 @@
+rfc: RFC-XXXX
+generated_by: rfc_lock
+source_of_truth: ../semantic.md
+requirements:
+  - id: REQ-001
+    statement: "<normative requirement>"
+    status: pending

@@ -1,0 +1,5 @@
+rfc: RFC-XXXX
+evidence:
+  - requirement: "<requirement-id>"
+    source: "<test-or-artifact>"
+    status: pending

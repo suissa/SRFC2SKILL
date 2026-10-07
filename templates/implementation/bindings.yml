@@ -1,0 +1,7 @@
+rfc: RFC-XXXX
+semantic: ../semantic.md
+implementation_readme: README.md
+binding_policy:
+  source_of_truth: semantic
+  technology_profile: reference
+  project_override_allowed: true

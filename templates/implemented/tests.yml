@@ -1,0 +1,5 @@
+rfc: RFC-XXXX
+tests:
+  - id: "<test-id>"
+    verifies:
+      - "<requirement-id>"

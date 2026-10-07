@@ -1,0 +1,5 @@
+rfc: RFC-XXXX
+profile: reference
+semantic_authority: ../semantic.md
+technologies:
+  - "<technology>"
